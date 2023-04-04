@@ -28,6 +28,7 @@ public class LoginSession extends AppCompatActivity {
         TextView NombreUsuario =(TextView) findViewById(R.id.NombreUsuario);
         TextView Contrasena =(TextView) findViewById(R.id.Contrasena);
 
+
         MaterialButton Boton = (MaterialButton) findViewById(R.id.Boton);
 
         //admin and admin password
