@@ -28,6 +28,7 @@ public class lista extends AppCompatActivity {
         ListView listView = findViewById(R.id.listview);
         List<String> list = new ArrayList<>();
 
+
         list.add("4 Manzanas");
         list.add("1kg de Arroz");
         list.add("1/4 kg de mortadela");

@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent i = new Intent(MainActivity.this, LoginSession.class);
                 startActivity(i);
                 finish();
+
             }
         }, 5000);
 }
